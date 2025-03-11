@@ -62,4 +62,4 @@ The application includes a mock OCR service for demonstration purposes. To use t
 
 ##Sample Working
 
-[!alt text](sample.png)
+[!Screenshot](/sample.png)
