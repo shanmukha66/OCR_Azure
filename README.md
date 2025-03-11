@@ -58,5 +58,8 @@ The application includes a mock OCR service for demonstration purposes. To use t
 2. Update the `API_KEY` constant in `src/services/ocrService.js`
 3. Comment out the mock service call and uncomment the actual service call in the `handleAnalyze` function in `src/components/OCRAnalytics.js`
 
+```
+
 ##Sample Working
+
 [!alt text](sample.png)
